@@ -1,2 +1,3 @@
 Added some content.
 changed by test branch.
+bug fixed
